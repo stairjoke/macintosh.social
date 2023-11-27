@@ -1,1 +1,1 @@
-# mastodon.social
+# macintosh.social
